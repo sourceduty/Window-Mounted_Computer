@@ -12,5 +12,14 @@ In terms of aesthetics, window-mounted computers offer a unique visual appeal th
 
 From a practical perspective, window-mounted computers can also provide a more ergonomic workspace. By freeing up desk space, users have more room for other essential items or simply to enjoy a less cluttered environment. Additionally, the placement of the computer can lead to more efficient cable management, reducing the tangle of wires commonly found in traditional setups. This can not only enhance the appearance of the workspace but also make it easier to maintain and clean. Overall, window-mounted computers represent a forward-thinking approach to workspace design, combining form and function in an innovative way.
 
+#
+### Related Links
+
+[Pi-PC Case](https://github.com/sourceduty/Pi-PC_Case)
+<br>
+[Thermal Imaging PC Case](https://github.com/sourceduty/Thermal_Imaging_PC_Case)
+<br>
+[PC Build Plan](https://chat.openai.com/g/g-W9wTtIyiJ-pc-build-plan)
+
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
