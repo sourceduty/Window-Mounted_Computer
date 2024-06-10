@@ -20,6 +20,8 @@ From a practical perspective, window-mounted computers can also provide a more e
 [Thermal Imaging PC Case](https://github.com/sourceduty/Thermal_Imaging_PC_Case)
 <br>
 [PC Build Plan](https://chat.openai.com/g/g-W9wTtIyiJ-pc-build-plan)
+<br>
+[Gas-Cooled Computer](https://github.com/sourceduty/Gas-Cooled_Computer)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
